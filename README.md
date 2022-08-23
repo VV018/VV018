@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
--  👋  Hi, my name is Vimal Vinod!
+- 👋  Hi, my name is Vimal Vinod!
 - 👀  I’m interested in learning about the world and all the wonderful things it has to offer me. 
 - 🌱  I’m currently learning about the universe that is software and computers in general. I am a junior at Miami University pursuing 
 - 🌱  that passion and I hope you end up liking what I end up putting on here! 
